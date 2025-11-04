@@ -12,7 +12,7 @@ const resepList = [
   {
     nama: "Nasi Goreng",
     kategori: "Makanan Utama",
-    img: "https://img.kurio.network/LlPo3UJ_cL1g2iIC9lOip2Jb00Q=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/21/07/26/46b7c1d7-d33b-4789-bda0-1e84f7c89aa2.jpe",
+    img: "nasigoreng.jpg",
     wiki: "https://id.wikipedia.org/wiki/Nasi_goreng",
     bahan: [
       "2 piring nasi putih dingin",
@@ -32,7 +32,7 @@ const resepList = [
   {
     nama: "Sate Ayam",
     kategori: "Makanan Utama",
-    img: "https://upload.wikimedia.org/wikipedia/commons/2/24/Sate_ayam_madura_2.jpg",
+    img: "sateayam.jpg",
     wiki: "https://id.wikipedia.org/wiki/Sate",
     bahan: [
       "500g daging ayam potong dadu",
@@ -49,7 +49,7 @@ const resepList = [
   {
     nama: "Rendang",
     kategori: "Makanan Utama",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rendang_daging_sapi.JPG",
+    img: "rendang.jpg",
     wiki: "https://id.wikipedia.org/wiki/Rendang",
     bahan: [
       "1 kg daging sapi",
@@ -66,7 +66,7 @@ const resepList = [
   {
     nama: "Gado-Gado",
     kategori: "Salad",
-    img: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gado-gado_Seribu_Rasa.jpg",
+    img: "gadogado.jpg",
     wiki: "https://id.wikipedia.org/wiki/Gado-gado",
     bahan: ["Sayuran rebus", "Tahu, tempe", "Saus kacang"],
     langkah: [
@@ -79,7 +79,7 @@ const resepList = [
   {
     nama: "Bakso",
     kategori: "Makanan Utama",
-    img: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bakso_mi_ayam.jpg",
+    img: "bakso.jpg",
     wiki: "https://id.wikipedia.org/wiki/Bakso",
     bahan: ["500g daging sapi giling", "Tepung tapioka", "Bawang putih"],
     langkah: [
@@ -92,7 +92,7 @@ const resepList = [
   {
     nama: "Soto Ayam",
     kategori: "Sup",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Soto_ayam_1.jpg",
+    img: "sotoayam.webp",
     wiki: "https://id.wikipedia.org/wiki/Soto",
     bahan: ["Ayam, bihun, telur rebus", "Bumbu soto", "Santan sedikit"],
     langkah: [
@@ -105,7 +105,7 @@ const resepList = [
   {
     nama: "Pempek",
     kategori: "Camilan",
-    img: "https://upload.wikimedia.org/wikipedia/commons/2/23/Pempek_Palembang.jpg",
+    img: "pempek.jpg",
     wiki: "https://id.wikipedia.org/wiki/Pempek",
     bahan: ["Ikan giling, tepung sagu", "Air, garam"],
     langkah: [
@@ -118,7 +118,7 @@ const resepList = [
   {
     nama: "Martabak Manis",
     kategori: "Dessert",
-    img: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martabak_manis_%28Indonesian_thick_pancake%29.jpg",
+    img: "martabakmanis.webp",
     wiki: "https://id.wikipedia.org/wiki/Martabak",
     bahan: ["Tepung, telur, gula", "Susu kental manis, topping"],
     langkah: [
@@ -131,7 +131,7 @@ const resepList = [
   {
     nama: "Es Campur",
     kategori: "Minuman",
-    img: "https://upload.wikimedia.org/wikipedia/commons/d/df/Es_campur_Bandung.jpg",
+    img: "escampur.jpg",
     wiki: "https://id.wikipedia.org/wiki/Es_campur",
     bahan: ["Agar, buah, susu kental, es serut"],
     langkah: [
@@ -144,7 +144,7 @@ const resepList = [
   {
     nama: "Klepon",
     kategori: "Camilan",
-    img: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Klepon_1.jpg",
+    img: "klepon.jpg",
     wiki: "https://id.wikipedia.org/wiki/Klepon",
     bahan: ["Tepung ketan, gula merah, kelapa parut"],
     langkah: [
